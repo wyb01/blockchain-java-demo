@@ -84,10 +84,8 @@ public class BlockChain {
 	/**
 	 * 在区块链上新建一个区块，并返回
 	 * 
-	 * @param proof
-	 *            新区块的工作量证明
-	 * @param previous_hash
-	 *            上一个区块的hash值
+	 * @param proof  新区块的工作量证明
+	 * @param previous_hash  上一个区块的hash值
 	 * @return 返回新建的区块
 	 */
 	public Map<String, Object> newBlock(long proof, String previous_hash) {
