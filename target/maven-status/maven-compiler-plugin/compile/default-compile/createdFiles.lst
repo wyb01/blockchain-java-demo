@@ -1,0 +1,11 @@
+org/zero01/servlet/NewTransaction.class
+org/zero01/servlet/FullChain.class
+org/zero01/servlet/NodesRegister.class
+org/zero01/test/TestProof.class
+org/zero01/servlet/InitialID.class
+org/zero01/servlet/Mine.class
+org/zero01/servlet/NodesResolve.class
+org/zero01/core/BlockChain.class
+org/zero01/test/Test.class
+org/zero01/test/TestURL.class
+org/zero01/util/Encrypt.class
